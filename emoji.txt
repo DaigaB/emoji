@@ -1,0 +1,7 @@
+emoji
+
+happy
+sad
+funny
+angry
+no emotions
