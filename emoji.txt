@@ -1,4 +1,4 @@
-emoji and the unicorn and some changes
+emoji and the unicorn and some changes newnewFile make changes in file emoji.txt
 
 happy
 sad
@@ -10,3 +10,4 @@ unicorn
 hello
 bread
 new something
+make changes in the same file, but in different branches
